@@ -44,7 +44,6 @@ SingletonBanking/
 │   └── Utilisateur.java
 ├── logs/
 │   └── journal.txt
-└── README.md
 ```
 
 ## Description des classes
